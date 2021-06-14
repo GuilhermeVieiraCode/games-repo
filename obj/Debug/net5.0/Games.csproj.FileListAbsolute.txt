@@ -1,0 +1,16 @@
+/home/guilherme/Documentos/www/takeblip-bootcamp/Games/bin/Debug/net5.0/Games
+/home/guilherme/Documentos/www/takeblip-bootcamp/Games/bin/Debug/net5.0/Games.deps.json
+/home/guilherme/Documentos/www/takeblip-bootcamp/Games/bin/Debug/net5.0/Games.runtimeconfig.json
+/home/guilherme/Documentos/www/takeblip-bootcamp/Games/bin/Debug/net5.0/Games.runtimeconfig.dev.json
+/home/guilherme/Documentos/www/takeblip-bootcamp/Games/bin/Debug/net5.0/Games.dll
+/home/guilherme/Documentos/www/takeblip-bootcamp/Games/bin/Debug/net5.0/ref/Games.dll
+/home/guilherme/Documentos/www/takeblip-bootcamp/Games/bin/Debug/net5.0/Games.pdb
+/home/guilherme/Documentos/www/takeblip-bootcamp/Games/obj/Debug/net5.0/Games.csproj.AssemblyReference.cache
+/home/guilherme/Documentos/www/takeblip-bootcamp/Games/obj/Debug/net5.0/Games.GeneratedMSBuildEditorConfig.editorconfig
+/home/guilherme/Documentos/www/takeblip-bootcamp/Games/obj/Debug/net5.0/Games.AssemblyInfoInputs.cache
+/home/guilherme/Documentos/www/takeblip-bootcamp/Games/obj/Debug/net5.0/Games.AssemblyInfo.cs
+/home/guilherme/Documentos/www/takeblip-bootcamp/Games/obj/Debug/net5.0/Games.csproj.CoreCompileInputs.cache
+/home/guilherme/Documentos/www/takeblip-bootcamp/Games/obj/Debug/net5.0/Games.dll
+/home/guilherme/Documentos/www/takeblip-bootcamp/Games/obj/Debug/net5.0/ref/Games.dll
+/home/guilherme/Documentos/www/takeblip-bootcamp/Games/obj/Debug/net5.0/Games.pdb
+/home/guilherme/Documentos/www/takeblip-bootcamp/Games/obj/Debug/net5.0/Games.genruntimeconfig.cache
